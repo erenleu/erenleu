@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm Eren Aslan  
+I'm a 4th-year Electrical and Electronics Engineering student. 
 
-<!--
-**erenleu/erenleu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ My areas of interest:
+- Power electronics, circuit design, and digital systems  
+- Electromagnetic analysis (ANSYS Maxwell)  
+- System modeling and simulation (MATLAB & Simulink)  
+- Hardware development with Arduino  
 
-Here are some ideas to get you started:
+🧠 My goal:
+To accurately represent physical systems with numerical models and develop solutions that increase energy efficiency and safety.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 What I'm currently learning:
+- Magnetic component analysis with ANSYS Maxwell  
+- Maxwell–MATLAB data connection  
+- Python fundamentals  
+
+📂 My GitHub content:
+- **Maxwell Projects:** Electromagnetic simulations  
+- **MATLAB Models:** System modeling studies  
+- **Arduino Projects:** Hardware prototypes 
